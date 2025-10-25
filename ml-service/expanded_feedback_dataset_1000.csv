@@ -1,0 +1,1001 @@
+ID,Problem Description,Domain
+1,Problem reported in Graffiti Removal area at Main Street causing inconvenience.,Graffiti Removal
+2,Problem reported in Swimming Pools Safety area at Park Avenue causing inconvenience.,Swimming Pools Safety
+3,Problem reported in Public Transport area at MG Road causing inconvenience.,Public Transport
+4,Problem reported in Parks and Recreation area at Hill Valley causing inconvenience.,Parks and Recreation
+5,Problem reported in Public WiFi area at Hill Valley causing inconvenience.,Public WiFi
+6,Problem reported in Building Codes area at Hill Valley causing inconvenience.,Building Codes
+7,Problem reported in Recycling Services area at Hill Valley causing inconvenience.,Recycling Services
+8,Problem reported in Public Playground Safety area at Downtown causing inconvenience.,Public Playground Safety
+9,Problem reported in Police area at West Park causing inconvenience.,Police
+10,Problem reported in Graffiti Removal area at North End causing inconvenience.,Graffiti Removal
+11,Problem reported in Street Furniture Maintenance area at Main Street causing inconvenience.,Street Furniture Maintenance
+12,Problem reported in Water Metering area at Riverbank causing inconvenience.,Water Metering
+13,Problem reported in Drainage area at Old Town causing inconvenience.,Drainage
+14,Problem reported in Homeless Shelters area at Old Town causing inconvenience.,Homeless Shelters
+15,Problem reported in Water Billing area at Old Town causing inconvenience.,Water Billing
+16,Problem reported in Street Cleaning Schedule area at North End causing inconvenience.,Street Cleaning Schedule
+17,Problem reported in Water Metering area at MG Road causing inconvenience.,Water Metering
+18,Problem reported in Parks and Recreation area at MG Road causing inconvenience.,Parks and Recreation
+19,Problem reported in Street Sweeping area at North End causing inconvenience.,Street Sweeping
+20,Problem reported in Parks Lighting area at Main Street causing inconvenience.,Parks Lighting
+21,Problem reported in Fire Safety area at Hill Valley causing inconvenience.,Fire Safety
+22,Problem reported in Street Furniture Maintenance area at Hill Valley causing inconvenience.,Street Furniture Maintenance
+23,Problem reported in Water Quality area at West Park causing inconvenience.,Water Quality
+24,Electricity has been out for hours in MG Road.,Electricity
+25,Problem reported in Street Performers area at Main Street causing inconvenience.,Street Performers
+26,Problem reported in Water Billing area at Sector 9 causing inconvenience.,Water Billing
+27,Problem reported in Public Transport area at Sector 9 causing inconvenience.,Public Transport
+28,Problem reported in Public Art area at Sector 9 causing inconvenience.,Public Art
+29,Problem reported in Public Schools Maintenance area at Downtown causing inconvenience.,Public Schools Maintenance
+30,Problem reported in Emergency Services area at Downtown causing inconvenience.,Emergency Services
+31,Problem reported in Street Furniture Maintenance area at Main Street causing inconvenience.,Street Furniture Maintenance
+32,Problem reported in Community Centers area at Sector 9 causing inconvenience.,Community Centers
+33,Problem reported in Sidewalks area at Sector 9 causing inconvenience.,Sidewalks
+34,Problem reported in Electric Billing area at MG Road causing inconvenience.,Electric Billing
+35,Problem reported in Animal Shelters area at Riverbank causing inconvenience.,Animal Shelters
+36,Problem reported in Bike Sharing Services area at Riverbank causing inconvenience.,Bike Sharing Services
+37,Problem reported in Public Parks Safety area at Park Avenue causing inconvenience.,Public Parks Safety
+38,Problem reported in City Planning area at Old Town causing inconvenience.,City Planning
+39,Problem reported in Recycling Services area at Old Town causing inconvenience.,Recycling Services
+40,Problem reported in Street Cleaning Schedule area at Main Street causing inconvenience.,Street Cleaning Schedule
+41,Problem reported in Public Art area at Hill Valley causing inconvenience.,Public Art
+42,Problem reported in Traffic Enforcement area at North End causing inconvenience.,Traffic Enforcement
+43,Problem reported in Street Drainage area at Sector 9 causing inconvenience.,Street Drainage
+44,Problem reported in Sidewalk Repair area at West Park causing inconvenience.,Sidewalk Repair
+45,Problem reported in Parking area at Hill Valley causing inconvenience.,Parking
+46,Problem reported in Illegal Dumping area at Downtown causing inconvenience.,Illegal Dumping
+47,Streetlight on North End avenue is broken.,Electricity
+48,Illegal dumping found near Main Street park.,Garbage
+49,Problem reported in Tree Maintenance area at Old Town causing inconvenience.,Tree Maintenance
+50,Problem reported in Road Accidents area at North End causing inconvenience.,Road Accidents
+51,Large potholes on Sector 9 road making driving unsafe.,Roads
+52,Problem reported in City Planning area at Old Town causing inconvenience.,City Planning
+53,Problem reported in City Planning area at Main Street causing inconvenience.,City Planning
+54,Problem reported in Animal Control area at West Park causing inconvenience.,Animal Control
+55,Problem reported in Street Repairs area at West Park causing inconvenience.,Street Repairs
+56,Problem reported in Illegal Dumping area at Hill Valley causing inconvenience.,Illegal Dumping
+57,Problem reported in Public Libraries area at West Park causing inconvenience.,Public Libraries
+58,Problem reported in Traffic area at North End causing inconvenience.,Traffic
+59,Problem reported in Public Art area at Sector 9 causing inconvenience.,Public Art
+60,Problem reported in Bus Schedules area at Old Town causing inconvenience.,Bus Schedules
+61,Large potholes on MG Road road making driving unsafe.,Roads
+62,Problem reported in Bridge Maintenance area at Main Street causing inconvenience.,Bridge Maintenance
+63,Problem reported in Public Schools Maintenance area at West Park causing inconvenience.,Public Schools Maintenance
+64,Problem reported in Energy Conservation area at MG Road causing inconvenience.,Energy Conservation
+65,Problem reported in Bus Stops area at MG Road causing inconvenience.,Bus Stops
+66,Problem reported in Illegal Dumping area at Downtown causing inconvenience.,Illegal Dumping
+67,Problem reported in Monuments area at MG Road causing inconvenience.,Monuments
+68,Problem reported in Street Furniture area at Main Street causing inconvenience.,Street Furniture
+69,Problem reported in Disaster Management area at Main Street causing inconvenience.,Disaster Management
+70,Problem reported in Parks Lighting area at MG Road causing inconvenience.,Parks Lighting
+71,Problem reported in Police area at North End causing inconvenience.,Police
+72,Problem reported in Parking area at Hill Valley causing inconvenience.,Parking
+73,Problem reported in Public Playground Safety area at Downtown causing inconvenience.,Public Playground Safety
+74,Problem reported in Public Safety area at West Park causing inconvenience.,Public Safety
+75,Problem reported in Street Cleaning Schedule area at West Park causing inconvenience.,Street Cleaning Schedule
+76,Problem reported in Energy Conservation area at Main Street causing inconvenience.,Energy Conservation
+77,Problem reported in Street Repairs area at North End causing inconvenience.,Street Repairs
+78,Problem reported in Public Pools Maintenance area at Main Street causing inconvenience.,Public Pools Maintenance
+79,Problem reported in Public Markets area at North End causing inconvenience.,Public Markets
+80,Problem reported in Street Sweeping area at Sector 9 causing inconvenience.,Street Sweeping
+81,Problem reported in Public Safety area at Riverbank causing inconvenience.,Public Safety
+82,Problem reported in Sidewalk Repair area at MG Road causing inconvenience.,Sidewalk Repair
+83,Problem reported in Road Signs area at North End causing inconvenience.,Road Signs
+84,Problem reported in Traffic Enforcement area at Park Avenue causing inconvenience.,Traffic Enforcement
+85,Problem reported in Cemeteries area at Hill Valley causing inconvenience.,Cemeteries
+86,Problem reported in Waste Management area at North End causing inconvenience.,Waste Management
+87,Problem reported in Street Lighting Maintenance area at Sector 9 causing inconvenience.,Street Lighting Maintenance
+88,Problem reported in Sidewalks area at Downtown causing inconvenience.,Sidewalks
+89,Problem reported in Parks and Recreation area at Hill Valley causing inconvenience.,Parks and Recreation
+90,Problem reported in Public Pools area at North End causing inconvenience.,Public Pools
+91,Large potholes on Sector 9 road making driving unsafe.,Roads
+92,Problem reported in Traffic Signals area at Downtown causing inconvenience.,Traffic Signals
+93,Problem reported in Electric Billing area at North End causing inconvenience.,Electric Billing
+94,Problem reported in Taxi Services area at Riverbank causing inconvenience.,Taxi Services
+95,Problem reported in Water Leak Detection area at MG Road causing inconvenience.,Water Leak Detection
+96,Problem reported in Recycling Services area at MG Road causing inconvenience.,Recycling Services
+97,Problem reported in Street Sign Maintenance area at Hill Valley causing inconvenience.,Street Sign Maintenance
+98,Problem reported in Bus Schedules area at MG Road causing inconvenience.,Bus Schedules
+99,Problem reported in Building Codes area at Park Avenue causing inconvenience.,Building Codes
+100,Problem reported in Public Health Clinics area at Downtown causing inconvenience.,Public Health Clinics
+101,Problem reported in Snow Removal area at Hill Valley causing inconvenience.,Snow Removal
+102,Problem reported in Monuments area at Old Town causing inconvenience.,Monuments
+103,Problem reported in Public Schools Maintenance area at Main Street causing inconvenience.,Public Schools Maintenance
+104,Problem reported in Parking area at Old Town causing inconvenience.,Parking
+105,Problem reported in Public Pools area at Riverbank causing inconvenience.,Public Pools
+106,Problem reported in Street Performers area at Park Avenue causing inconvenience.,Street Performers
+107,Problem reported in Police area at Riverbank causing inconvenience.,Police
+108,Problem reported in Zoning area at West Park causing inconvenience.,Zoning
+109,Problem reported in Traffic Signals area at MG Road causing inconvenience.,Traffic Signals
+110,Problem reported in Parking area at Hill Valley causing inconvenience.,Parking
+111,Problem reported in Water Billing area at Downtown causing inconvenience.,Water Billing
+112,Problem reported in Monuments area at Downtown causing inconvenience.,Monuments
+113,Problem reported in Road Signs area at Hill Valley causing inconvenience.,Road Signs
+114,Problem reported in Building Permits area at North End causing inconvenience.,Building Permits
+115,Problem reported in Sewer Maintenance area at Downtown causing inconvenience.,Sewer Maintenance
+116,Problem reported in Water Quality area at North End causing inconvenience.,Water Quality
+117,Problem reported in Construction Noise area at MG Road causing inconvenience.,Construction Noise
+118,Problem reported in Sidewalk Repair area at Downtown causing inconvenience.,Sidewalk Repair
+119,Problem reported in Traffic area at Sector 9 causing inconvenience.,Traffic
+120,Problem reported in Street Drainage area at Sector 9 causing inconvenience.,Street Drainage
+121,Problem reported in Public Transport area at Riverbank causing inconvenience.,Public Transport
+122,Problem reported in Traffic Enforcement area at Old Town causing inconvenience.,Traffic Enforcement
+123,Problem reported in Urban Planning area at MG Road causing inconvenience.,Urban Planning
+124,Problem reported in Street Sweeping area at Downtown causing inconvenience.,Street Sweeping
+125,Problem reported in Zoning area at Hill Valley causing inconvenience.,Zoning
+126,Problem reported in Public Markets area at Downtown causing inconvenience.,Public Markets
+127,Problem reported in Permit Issuance area at Old Town causing inconvenience.,Permit Issuance
+128,Problem reported in Bus Schedules area at West Park causing inconvenience.,Bus Schedules
+129,Problem reported in Public Art area at Park Avenue causing inconvenience.,Public Art
+130,Problem reported in Monuments area at Downtown causing inconvenience.,Monuments
+131,Problem reported in Illegal Dumping area at Hill Valley causing inconvenience.,Illegal Dumping
+132,Problem reported in Building Maintenance area at Hill Valley causing inconvenience.,Building Maintenance
+133,Problem reported in City Planning area at North End causing inconvenience.,City Planning
+134,Problem reported in Water Billing area at MG Road causing inconvenience.,Water Billing
+135,Problem reported in Bridge Maintenance area at Main Street causing inconvenience.,Bridge Maintenance
+136,Problem reported in Graffiti area at Sector 9 causing inconvenience.,Graffiti
+137,Problem reported in Animal Control area at Riverbank causing inconvenience.,Animal Control
+138,Problem reported in Fire Safety area at Main Street causing inconvenience.,Fire Safety
+139,Problem reported in Sidewalks area at Main Street causing inconvenience.,Sidewalks
+140,Problem reported in Bus Schedules area at Riverbank causing inconvenience.,Bus Schedules
+141,Problem reported in Noise Pollution area at North End causing inconvenience.,Noise Pollution
+142,Problem reported in Urban Planning area at West Park causing inconvenience.,Urban Planning
+143,Problem reported in Street Performers area at MG Road causing inconvenience.,Street Performers
+144,Problem reported in Parks Lighting area at Main Street causing inconvenience.,Parks Lighting
+145,Problem reported in Public Schools Maintenance area at West Park causing inconvenience.,Public Schools Maintenance
+146,Problem reported in Pavement Markings area at Hill Valley causing inconvenience.,Pavement Markings
+147,Problem reported in Building Permits area at Sector 9 causing inconvenience.,Building Permits
+148,Problem reported in Schools area at West Park causing inconvenience.,Schools
+149,Problem reported in Public Parks Safety area at West Park causing inconvenience.,Public Parks Safety
+150,Problem reported in Public Pools Maintenance area at Riverbank causing inconvenience.,Public Pools Maintenance
+151,Problem reported in Street Repairs area at Old Town causing inconvenience.,Street Repairs
+152,Problem reported in Sewer Maintenance area at Riverbank causing inconvenience.,Sewer Maintenance
+153,Problem reported in Schools area at Downtown causing inconvenience.,Schools
+154,Problem reported in Graffiti area at Riverbank causing inconvenience.,Graffiti
+155,Problem reported in Public Parking Enforcement area at Downtown causing inconvenience.,Public Parking Enforcement
+156,Problem reported in Street Lighting Maintenance area at Downtown causing inconvenience.,Street Lighting Maintenance
+157,Problem reported in Public WiFi area at West Park causing inconvenience.,Public WiFi
+158,Problem reported in Street Sign Maintenance area at Main Street causing inconvenience.,Street Sign Maintenance
+159,Problem reported in Animal Control area at Riverbank causing inconvenience.,Animal Control
+160,Problem reported in Street Closures area at Downtown causing inconvenience.,Street Closures
+161,Problem reported in Energy Conservation area at Riverbank causing inconvenience.,Energy Conservation
+162,Problem reported in Emergency Services area at Park Avenue causing inconvenience.,Emergency Services
+163,Problem reported in Waste Management area at Riverbank causing inconvenience.,Waste Management
+164,Problem reported in Parks Lighting area at West Park causing inconvenience.,Parks Lighting
+165,Problem reported in Taxi Services area at Riverbank causing inconvenience.,Taxi Services
+166,Problem reported in Public Health Clinics area at Sector 9 causing inconvenience.,Public Health Clinics
+167,Problem reported in Parks and Recreation area at Main Street causing inconvenience.,Parks and Recreation
+168,Problem reported in Rodent Control area at Main Street causing inconvenience.,Rodent Control
+169,Problem reported in Hospitals area at Old Town causing inconvenience.,Hospitals
+170,Problem reported in Traffic Enforcement area at MG Road causing inconvenience.,Traffic Enforcement
+171,Problem reported in Public Pools Maintenance area at Main Street causing inconvenience.,Public Pools Maintenance
+172,Problem reported in Road Signs area at Park Avenue causing inconvenience.,Road Signs
+173,Problem reported in Public Health Clinics area at Hill Valley causing inconvenience.,Public Health Clinics
+174,Problem reported in Snow Removal area at Old Town causing inconvenience.,Snow Removal
+175,Problem reported in Public Pools Maintenance area at Park Avenue causing inconvenience.,Public Pools Maintenance
+176,Problem reported in Street Lighting area at Downtown causing inconvenience.,Street Lighting
+177,Problem reported in Electric Billing area at Sector 9 causing inconvenience.,Electric Billing
+178,Problem reported in Public Pools Maintenance area at Sector 9 causing inconvenience.,Public Pools Maintenance
+179,Problem reported in Water Leak Detection area at MG Road causing inconvenience.,Water Leak Detection
+180,Problem reported in Street Lighting area at MG Road causing inconvenience.,Street Lighting
+181,Problem reported in Public Events Noise area at Hill Valley causing inconvenience.,Public Events Noise
+182,Problem reported in Tree Maintenance area at Main Street causing inconvenience.,Tree Maintenance
+183,Problem reported in Cemeteries area at Old Town causing inconvenience.,Cemeteries
+184,Problem reported in Graffiti Removal area at West Park causing inconvenience.,Graffiti Removal
+185,Problem reported in Recycling Services area at Old Town causing inconvenience.,Recycling Services
+186,Problem reported in Street Vendors area at Riverbank causing inconvenience.,Street Vendors
+187,Problem reported in Potholes area at MG Road causing inconvenience.,Potholes
+188,Problem reported in Public Safety area at North End causing inconvenience.,Public Safety
+189,Problem reported in Public Pools Maintenance area at MG Road causing inconvenience.,Public Pools Maintenance
+190,Problem reported in Public Markets area at Main Street causing inconvenience.,Public Markets
+191,Problem reported in Stormwater Management area at North End causing inconvenience.,Stormwater Management
+192,Problem reported in Potholes area at Downtown causing inconvenience.,Potholes
+193,Problem reported in Street Cleaning Schedule area at West Park causing inconvenience.,Street Cleaning Schedule
+194,Problem reported in Potholes area at Park Avenue causing inconvenience.,Potholes
+195,Problem reported in Sidewalks area at Sector 9 causing inconvenience.,Sidewalks
+196,Problem reported in Traffic area at Downtown causing inconvenience.,Traffic
+197,Problem reported in Waste Management area at Downtown causing inconvenience.,Waste Management
+198,Problem reported in Emergency Services area at Park Avenue causing inconvenience.,Emergency Services
+199,Problem reported in Bike Lanes area at North End causing inconvenience.,Bike Lanes
+200,Problem reported in Recycling Services area at West Park causing inconvenience.,Recycling Services
+201,Problem reported in Water Leak Detection area at MG Road causing inconvenience.,Water Leak Detection
+202,Problem reported in Monuments area at Park Avenue causing inconvenience.,Monuments
+203,Problem reported in Street Drainage area at Old Town causing inconvenience.,Street Drainage
+204,Problem reported in Street Repairs area at Hill Valley causing inconvenience.,Street Repairs
+205,Problem reported in Public Markets area at Hill Valley causing inconvenience.,Public Markets
+206,Problem reported in Monuments area at Old Town causing inconvenience.,Monuments
+207,Problem reported in Energy Conservation area at Main Street causing inconvenience.,Energy Conservation
+208,Problem reported in Permit Issuance area at MG Road causing inconvenience.,Permit Issuance
+209,Problem reported in Public Events Noise area at Downtown causing inconvenience.,Public Events Noise
+210,Problem reported in Taxi Services area at Main Street causing inconvenience.,Taxi Services
+211,Problem reported in Noise Pollution area at Main Street causing inconvenience.,Noise Pollution
+212,Problem reported in Road Accidents area at Riverbank causing inconvenience.,Road Accidents
+213,Problem reported in Street Cleaning area at Park Avenue causing inconvenience.,Street Cleaning
+214,Problem reported in Public Pools area at Park Avenue causing inconvenience.,Public Pools
+215,Problem reported in Taxi Services area at West Park causing inconvenience.,Taxi Services
+216,Problem reported in Building Permits area at Main Street causing inconvenience.,Building Permits
+217,Problem reported in Graffiti Removal area at Downtown causing inconvenience.,Graffiti Removal
+218,Problem reported in Public Parking Enforcement area at Downtown causing inconvenience.,Public Parking Enforcement
+219,Problem reported in Recycling Services area at Old Town causing inconvenience.,Recycling Services
+220,Problem reported in Homeless Shelters area at West Park causing inconvenience.,Homeless Shelters
+221,Problem reported in Bridge Maintenance area at Main Street causing inconvenience.,Bridge Maintenance
+222,Problem reported in Public Transport Maintenance area at West Park causing inconvenience.,Public Transport Maintenance
+223,Problem reported in Water Quality area at Riverbank causing inconvenience.,Water Quality
+224,Problem reported in Parks and Recreation area at MG Road causing inconvenience.,Parks and Recreation
+225,Problem reported in Stormwater Management area at Downtown causing inconvenience.,Stormwater Management
+226,Problem reported in Road Signs area at Main Street causing inconvenience.,Road Signs
+227,Problem reported in Water Quality area at Main Street causing inconvenience.,Water Quality
+228,Problem reported in Zoning area at MG Road causing inconvenience.,Zoning
+229,Problem reported in Street Cleaning Schedule area at Hill Valley causing inconvenience.,Street Cleaning Schedule
+230,Problem reported in Street Furniture Maintenance area at Hill Valley causing inconvenience.,Street Furniture Maintenance
+231,Problem reported in Zoning area at Sector 9 causing inconvenience.,Zoning
+232,Problem reported in Public WiFi area at North End causing inconvenience.,Public WiFi
+233,Problem reported in Public Transport Maintenance area at Hill Valley causing inconvenience.,Public Transport Maintenance
+234,Problem reported in Public Transport Maintenance area at Downtown causing inconvenience.,Public Transport Maintenance
+235,Problem reported in Street Cleaning Schedule area at North End causing inconvenience.,Street Cleaning Schedule
+236,Problem reported in Waste Management area at North End causing inconvenience.,Waste Management
+237,Problem reported in City Planning area at Downtown causing inconvenience.,City Planning
+238,Problem reported in Sidewalk Repair area at Old Town causing inconvenience.,Sidewalk Repair
+239,Problem reported in Public Landscaping area at Park Avenue causing inconvenience.,Public Landscaping
+240,Problem reported in Rodent Control area at Hill Valley causing inconvenience.,Rodent Control
+241,Problem reported in Bus Stops area at Riverbank causing inconvenience.,Bus Stops
+242,Problem reported in Permit Issuance area at Park Avenue causing inconvenience.,Permit Issuance
+243,Problem reported in Bus Schedules area at Park Avenue causing inconvenience.,Bus Schedules
+244,Problem reported in Animal Control area at Old Town causing inconvenience.,Animal Control
+245,Problem reported in Public Art area at West Park causing inconvenience.,Public Art
+246,Problem reported in Sewage area at Main Street causing inconvenience.,Sewage
+247,Problem reported in Street Closures area at Park Avenue causing inconvenience.,Street Closures
+248,Problem reported in Hospitals area at Hill Valley causing inconvenience.,Hospitals
+249,Problem reported in Street Sweeping area at North End causing inconvenience.,Street Sweeping
+250,Problem reported in Permit Issuance area at MG Road causing inconvenience.,Permit Issuance
+251,Problem reported in Construction Noise area at North End causing inconvenience.,Construction Noise
+252,Problem reported in Street Cleaning area at West Park causing inconvenience.,Street Cleaning
+253,Problem reported in Street Lighting Maintenance area at Main Street causing inconvenience.,Street Lighting Maintenance
+254,Problem reported in Sidewalks area at Downtown causing inconvenience.,Sidewalks
+255,Problem reported in Traffic Enforcement area at Old Town causing inconvenience.,Traffic Enforcement
+256,Problem reported in Swimming Pools Safety area at MG Road causing inconvenience.,Swimming Pools Safety
+257,Problem reported in Illegal Dumping area at Hill Valley causing inconvenience.,Illegal Dumping
+258,Problem reported in Hospitals area at Riverbank causing inconvenience.,Hospitals
+259,Problem reported in Taxi Services area at West Park causing inconvenience.,Taxi Services
+260,Problem reported in Street Furniture Maintenance area at Hill Valley causing inconvenience.,Street Furniture Maintenance
+261,Problem reported in Street Sweeping area at Riverbank causing inconvenience.,Street Sweeping
+262,Problem reported in Public Pools area at Old Town causing inconvenience.,Public Pools
+263,Problem reported in Public Safety area at Hill Valley causing inconvenience.,Public Safety
+264,Problem reported in Pavement Markings area at Main Street causing inconvenience.,Pavement Markings
+265,Problem reported in Police area at MG Road causing inconvenience.,Police
+266,Problem reported in Tree Maintenance area at Hill Valley causing inconvenience.,Tree Maintenance
+267,There is a leak in the water pipe near Hill Valley street.,Water Supply
+268,Problem reported in Graffiti area at Riverbank causing inconvenience.,Graffiti
+269,Problem reported in Bus Stops area at MG Road causing inconvenience.,Bus Stops
+270,Problem reported in Public Safety area at Hill Valley causing inconvenience.,Public Safety
+271,Problem reported in Road Accidents area at Old Town causing inconvenience.,Road Accidents
+272,Problem reported in Public Pools area at West Park causing inconvenience.,Public Pools
+273,Problem reported in Parking area at Main Street causing inconvenience.,Parking
+274,Problem reported in Street Cleaning Schedule area at MG Road causing inconvenience.,Street Cleaning Schedule
+275,Problem reported in Energy Conservation area at Hill Valley causing inconvenience.,Energy Conservation
+276,Problem reported in Public Transport area at Old Town causing inconvenience.,Public Transport
+277,Problem reported in Public Transport Maintenance area at Park Avenue causing inconvenience.,Public Transport Maintenance
+278,Problem reported in Tree Maintenance area at Sector 9 causing inconvenience.,Tree Maintenance
+279,Problem reported in Street Drainage area at Sector 9 causing inconvenience.,Street Drainage
+280,Problem reported in City Planning area at MG Road causing inconvenience.,City Planning
+281,Problem reported in Tree Maintenance area at Old Town causing inconvenience.,Tree Maintenance
+282,Problem reported in Bus Stops area at MG Road causing inconvenience.,Bus Stops
+283,Problem reported in Road Signs area at Sector 9 causing inconvenience.,Road Signs
+284,Problem reported in Homeless Shelters area at West Park causing inconvenience.,Homeless Shelters
+285,Problem reported in Noise Pollution area at Riverbank causing inconvenience.,Noise Pollution
+286,Problem reported in Parking area at Downtown causing inconvenience.,Parking
+287,Problem reported in Public Pools Maintenance area at Riverbank causing inconvenience.,Public Pools Maintenance
+288,Problem reported in Waste Management area at Main Street causing inconvenience.,Waste Management
+289,Problem reported in Traffic Signals area at North End causing inconvenience.,Traffic Signals
+290,Problem reported in Building Maintenance area at West Park causing inconvenience.,Building Maintenance
+291,Problem reported in Bike Sharing Services area at West Park causing inconvenience.,Bike Sharing Services
+292,Problem reported in Urban Planning area at Riverbank causing inconvenience.,Urban Planning
+293,Streetlight on Old Town avenue is broken.,Electricity
+294,Problem reported in Public Safety area at MG Road causing inconvenience.,Public Safety
+295,Problem reported in Flooding area at Riverbank causing inconvenience.,Flooding
+296,Problem reported in Street Vendors area at Old Town causing inconvenience.,Street Vendors
+297,Problem reported in Bus Schedules area at Riverbank causing inconvenience.,Bus Schedules
+298,Problem reported in Water Metering area at MG Road causing inconvenience.,Water Metering
+299,Problem reported in Public Pools area at Main Street causing inconvenience.,Public Pools
+300,Problem reported in Emergency Services area at Old Town causing inconvenience.,Emergency Services
+301,Problem reported in Swimming Pools Safety area at Park Avenue causing inconvenience.,Swimming Pools Safety
+302,Problem reported in Street Vendors area at Riverbank causing inconvenience.,Street Vendors
+303,Problem reported in Public Toilets area at West Park causing inconvenience.,Public Toilets
+304,Problem reported in Permit Issuance area at West Park causing inconvenience.,Permit Issuance
+305,Problem reported in Street Closures area at Sector 9 causing inconvenience.,Street Closures
+306,Problem reported in Schools area at West Park causing inconvenience.,Schools
+307,Problem reported in Stormwater Management area at Main Street causing inconvenience.,Stormwater Management
+308,Problem reported in Street Cleaning Schedule area at Riverbank causing inconvenience.,Street Cleaning Schedule
+309,Problem reported in Cemeteries area at Hill Valley causing inconvenience.,Cemeteries
+310,Problem reported in Snow Removal area at North End causing inconvenience.,Snow Removal
+311,Problem reported in Street Lighting Maintenance area at Hill Valley causing inconvenience.,Street Lighting Maintenance
+312,Problem reported in Parks and Recreation area at Old Town causing inconvenience.,Parks and Recreation
+313,Road needs urgent repair on West Park street.,Roads
+314,Problem reported in Police area at MG Road causing inconvenience.,Police
+315,Problem reported in Fire Safety area at Sector 9 causing inconvenience.,Fire Safety
+316,Problem reported in Street Sweeping area at Riverbank causing inconvenience.,Street Sweeping
+317,Road needs urgent repair on Main Street street.,Roads
+318,Problem reported in Traffic area at Old Town causing inconvenience.,Traffic
+319,Problem reported in Pavement Markings area at Riverbank causing inconvenience.,Pavement Markings
+320,Problem reported in Graffiti Removal area at Old Town causing inconvenience.,Graffiti Removal
+321,Problem reported in Waste Management area at Sector 9 causing inconvenience.,Waste Management
+322,Problem reported in Public Schools Maintenance area at Downtown causing inconvenience.,Public Schools Maintenance
+323,Problem reported in Public Markets area at North End causing inconvenience.,Public Markets
+324,Problem reported in Public Pools area at MG Road causing inconvenience.,Public Pools
+325,Problem reported in Drainage area at Old Town causing inconvenience.,Drainage
+326,Problem reported in Street Performers area at Main Street causing inconvenience.,Street Performers
+327,Problem reported in Public Schools Maintenance area at Sector 9 causing inconvenience.,Public Schools Maintenance
+328,Problem reported in Bike Sharing Services area at North End causing inconvenience.,Bike Sharing Services
+329,Problem reported in Street Lighting Maintenance area at Hill Valley causing inconvenience.,Street Lighting Maintenance
+330,Problem reported in Building Permits area at West Park causing inconvenience.,Building Permits
+331,Problem reported in Building Codes area at Downtown causing inconvenience.,Building Codes
+332,Problem reported in Parks and Recreation area at Downtown causing inconvenience.,Parks and Recreation
+333,Problem reported in Traffic Enforcement area at Old Town causing inconvenience.,Traffic Enforcement
+334,Problem reported in Street Cleaning Schedule area at Downtown causing inconvenience.,Street Cleaning Schedule
+335,Problem reported in Street Performers area at Hill Valley causing inconvenience.,Street Performers
+336,Problem reported in Water Metering area at Old Town causing inconvenience.,Water Metering
+337,Problem reported in Public Health Clinics area at Downtown causing inconvenience.,Public Health Clinics
+338,Problem reported in Street Closures area at Old Town causing inconvenience.,Street Closures
+339,Problem reported in Graffiti area at Sector 9 causing inconvenience.,Graffiti
+340,Problem reported in Road Accidents area at West Park causing inconvenience.,Road Accidents
+341,Problem reported in Public Art area at MG Road causing inconvenience.,Public Art
+342,Problem reported in Recycling Services area at West Park causing inconvenience.,Recycling Services
+343,Problem reported in Community Centers area at Downtown causing inconvenience.,Community Centers
+344,Problem reported in Street Sweeping area at Park Avenue causing inconvenience.,Street Sweeping
+345,Problem reported in Street Lighting Maintenance area at West Park causing inconvenience.,Street Lighting Maintenance
+346,Problem reported in Street Vendors area at Park Avenue causing inconvenience.,Street Vendors
+347,Problem reported in Bike Lanes area at Riverbank causing inconvenience.,Bike Lanes
+348,Problem reported in Street Lighting Maintenance area at Hill Valley causing inconvenience.,Street Lighting Maintenance
+349,Problem reported in Sidewalk Repair area at North End causing inconvenience.,Sidewalk Repair
+350,Problem reported in Street Cleaning area at Downtown causing inconvenience.,Street Cleaning
+351,Problem reported in Permit Issuance area at Hill Valley causing inconvenience.,Permit Issuance
+352,Problem reported in Water Metering area at North End causing inconvenience.,Water Metering
+353,Problem reported in Traffic area at Main Street causing inconvenience.,Traffic
+354,Problem reported in Road Signs area at Sector 9 causing inconvenience.,Road Signs
+355,Problem reported in Building Permits area at Riverbank causing inconvenience.,Building Permits
+356,Problem reported in Street Repairs area at North End causing inconvenience.,Street Repairs
+357,Problem reported in Street Repairs area at Old Town causing inconvenience.,Street Repairs
+358,Problem reported in Public Landscaping area at Main Street causing inconvenience.,Public Landscaping
+359,Problem reported in Bus Schedules area at Main Street causing inconvenience.,Bus Schedules
+360,Problem reported in Fire Safety area at Riverbank causing inconvenience.,Fire Safety
+361,Problem reported in Street Cleaning area at Riverbank causing inconvenience.,Street Cleaning
+362,Problem reported in Street Furniture area at MG Road causing inconvenience.,Street Furniture
+363,Problem reported in Bridge Maintenance area at Riverbank causing inconvenience.,Bridge Maintenance
+364,Problem reported in Monuments area at Riverbank causing inconvenience.,Monuments
+365,Problem reported in Sidewalks area at Riverbank causing inconvenience.,Sidewalks
+366,Problem reported in Recycling Services area at MG Road causing inconvenience.,Recycling Services
+367,Problem reported in Water Quality area at North End causing inconvenience.,Water Quality
+368,Problem reported in Road Signs area at West Park causing inconvenience.,Road Signs
+369,Electricity has been out for hours in Main Street.,Electricity
+370,Problem reported in Public Pools area at Old Town causing inconvenience.,Public Pools
+371,Problem reported in Water Billing area at MG Road causing inconvenience.,Water Billing
+372,Problem reported in Parking area at Hill Valley causing inconvenience.,Parking
+373,Problem reported in Public Parks Safety area at Old Town causing inconvenience.,Public Parks Safety
+374,Problem reported in Public WiFi area at Sector 9 causing inconvenience.,Public WiFi
+375,Problem reported in Energy Conservation area at Park Avenue causing inconvenience.,Energy Conservation
+376,Problem reported in Public Schools Maintenance area at Downtown causing inconvenience.,Public Schools Maintenance
+377,Problem reported in Fire Safety area at Downtown causing inconvenience.,Fire Safety
+378,Problem reported in Taxi Services area at Hill Valley causing inconvenience.,Taxi Services
+379,Problem reported in Street Closures area at Main Street causing inconvenience.,Street Closures
+380,Problem reported in Public Safety area at MG Road causing inconvenience.,Public Safety
+381,Problem reported in Street Furniture Maintenance area at Park Avenue causing inconvenience.,Street Furniture Maintenance
+382,Streetlight on West Park avenue is broken.,Electricity
+383,Problem reported in Street Performers area at Old Town causing inconvenience.,Street Performers
+384,Garbage bins overflowed at Park Avenue for days.,Garbage
+385,No water supply since morning in Old Town.,Water Supply
+386,Problem reported in Public WiFi area at North End causing inconvenience.,Public WiFi
+387,Problem reported in Animal Control area at Hill Valley causing inconvenience.,Animal Control
+388,Problem reported in Cemeteries area at Main Street causing inconvenience.,Cemeteries
+389,Problem reported in Sewage area at Downtown causing inconvenience.,Sewage
+390,Problem reported in Air Pollution area at Hill Valley causing inconvenience.,Air Pollution
+391,Problem reported in Traffic Signals area at West Park causing inconvenience.,Traffic Signals
+392,Problem reported in Animal Control area at Main Street causing inconvenience.,Animal Control
+393,Problem reported in Parking area at MG Road causing inconvenience.,Parking
+394,Problem reported in Public Parking Enforcement area at Old Town causing inconvenience.,Public Parking Enforcement
+395,Problem reported in Public Safety area at Hill Valley causing inconvenience.,Public Safety
+396,Problem reported in Bike Sharing Services area at North End causing inconvenience.,Bike Sharing Services
+397,Problem reported in Energy Conservation area at Hill Valley causing inconvenience.,Energy Conservation
+398,Problem reported in Street Repairs area at Riverbank causing inconvenience.,Street Repairs
+399,Problem reported in Electric Billing area at Riverbank causing inconvenience.,Electric Billing
+400,Problem reported in Water Quality area at West Park causing inconvenience.,Water Quality
+401,Problem reported in Public Toilets area at North End causing inconvenience.,Public Toilets
+402,Problem reported in Graffiti Removal area at Hill Valley causing inconvenience.,Graffiti Removal
+403,Problem reported in Recycling Services area at Riverbank causing inconvenience.,Recycling Services
+404,Problem reported in Flooding area at Hill Valley causing inconvenience.,Flooding
+405,Problem reported in Police area at Riverbank causing inconvenience.,Police
+406,Problem reported in Sidewalks area at Hill Valley causing inconvenience.,Sidewalks
+407,Problem reported in Snow Removal area at Downtown causing inconvenience.,Snow Removal
+408,Problem reported in Public Libraries area at Main Street causing inconvenience.,Public Libraries
+409,Problem reported in Street Lighting area at MG Road causing inconvenience.,Street Lighting
+410,Problem reported in Building Codes area at Old Town causing inconvenience.,Building Codes
+411,Problem reported in Public Markets area at Sector 9 causing inconvenience.,Public Markets
+412,Problem reported in Recycling Services area at Old Town causing inconvenience.,Recycling Services
+413,Problem reported in Street Furniture area at West Park causing inconvenience.,Street Furniture
+414,Problem reported in Police area at Main Street causing inconvenience.,Police
+415,Problem reported in Traffic Enforcement area at Riverbank causing inconvenience.,Traffic Enforcement
+416,Problem reported in Disaster Management area at North End causing inconvenience.,Disaster Management
+417,Problem reported in Taxi Services area at Park Avenue causing inconvenience.,Taxi Services
+418,Problem reported in Stormwater Management area at Main Street causing inconvenience.,Stormwater Management
+419,Problem reported in Snow Removal area at Downtown causing inconvenience.,Snow Removal
+420,Problem reported in Street Drainage area at Hill Valley causing inconvenience.,Street Drainage
+421,Problem reported in Sidewalk Repair area at Old Town causing inconvenience.,Sidewalk Repair
+422,Problem reported in Swimming Pools Safety area at Riverbank causing inconvenience.,Swimming Pools Safety
+423,Problem reported in Hospitals area at Main Street causing inconvenience.,Hospitals
+424,Problem reported in Bike Lanes area at Park Avenue causing inconvenience.,Bike Lanes
+425,Problem reported in Police area at Park Avenue causing inconvenience.,Police
+426,Problem reported in Public Events Noise area at Hill Valley causing inconvenience.,Public Events Noise
+427,Problem reported in Public Transport Maintenance area at Sector 9 causing inconvenience.,Public Transport Maintenance
+428,Problem reported in Monuments area at Main Street causing inconvenience.,Monuments
+429,Problem reported in Parks Lighting area at North End causing inconvenience.,Parks Lighting
+430,Problem reported in Public Parks Safety area at North End causing inconvenience.,Public Parks Safety
+431,Problem reported in Road Accidents area at MG Road causing inconvenience.,Road Accidents
+432,Problem reported in Water Billing area at Sector 9 causing inconvenience.,Water Billing
+433,Problem reported in Flooding area at Hill Valley causing inconvenience.,Flooding
+434,Problem reported in Animal Control area at MG Road causing inconvenience.,Animal Control
+435,Problem reported in Parks Lighting area at Main Street causing inconvenience.,Parks Lighting
+436,Problem reported in Public Libraries area at Hill Valley causing inconvenience.,Public Libraries
+437,Problem reported in Sewage area at Sector 9 causing inconvenience.,Sewage
+438,Problem reported in Street Furniture area at West Park causing inconvenience.,Street Furniture
+439,Problem reported in Permit Issuance area at Riverbank causing inconvenience.,Permit Issuance
+440,Problem reported in Public WiFi area at North End causing inconvenience.,Public WiFi
+441,Problem reported in Hospitals area at Downtown causing inconvenience.,Hospitals
+442,Problem reported in Traffic Signals area at Old Town causing inconvenience.,Traffic Signals
+443,Problem reported in Street Lighting area at Main Street causing inconvenience.,Street Lighting
+444,Problem reported in Public Playground Safety area at West Park causing inconvenience.,Public Playground Safety
+445,Problem reported in Public Safety area at MG Road causing inconvenience.,Public Safety
+446,Problem reported in Road Accidents area at Sector 9 causing inconvenience.,Road Accidents
+447,Problem reported in Bike Sharing Services area at Park Avenue causing inconvenience.,Bike Sharing Services
+448,Problem reported in Urban Planning area at Park Avenue causing inconvenience.,Urban Planning
+449,Problem reported in Public Parks Safety area at Main Street causing inconvenience.,Public Parks Safety
+450,Problem reported in Emergency Services area at Hill Valley causing inconvenience.,Emergency Services
+451,Problem reported in Street Cleaning area at Hill Valley causing inconvenience.,Street Cleaning
+452,Problem reported in Building Permits area at Hill Valley causing inconvenience.,Building Permits
+453,Problem reported in Drainage area at Old Town causing inconvenience.,Drainage
+454,Problem reported in Street Closures area at Downtown causing inconvenience.,Street Closures
+455,Problem reported in Public Parking Enforcement area at Main Street causing inconvenience.,Public Parking Enforcement
+456,Problem reported in Cemeteries area at Main Street causing inconvenience.,Cemeteries
+457,Problem reported in Building Maintenance area at North End causing inconvenience.,Building Maintenance
+458,Problem reported in Public Events Noise area at Main Street causing inconvenience.,Public Events Noise
+459,Problem reported in Water Quality area at Main Street causing inconvenience.,Water Quality
+460,Problem reported in Parking area at North End causing inconvenience.,Parking
+461,Problem reported in Potholes area at MG Road causing inconvenience.,Potholes
+462,Problem reported in Street Performers area at North End causing inconvenience.,Street Performers
+463,Problem reported in Public Pools Maintenance area at Downtown causing inconvenience.,Public Pools Maintenance
+464,Problem reported in Air Pollution area at West Park causing inconvenience.,Air Pollution
+465,Problem reported in Homeless Shelters area at Hill Valley causing inconvenience.,Homeless Shelters
+466,Problem reported in Traffic Signals area at Main Street causing inconvenience.,Traffic Signals
+467,Problem reported in Street Lighting Maintenance area at Main Street causing inconvenience.,Street Lighting Maintenance
+468,Problem reported in Street Performers area at North End causing inconvenience.,Street Performers
+469,Problem reported in Cemeteries area at Sector 9 causing inconvenience.,Cemeteries
+470,Problem reported in Graffiti Removal area at North End causing inconvenience.,Graffiti Removal
+471,Problem reported in Street Cleaning Schedule area at Hill Valley causing inconvenience.,Street Cleaning Schedule
+472,Problem reported in Sidewalks area at Park Avenue causing inconvenience.,Sidewalks
+473,Problem reported in Street Sign Maintenance area at Sector 9 causing inconvenience.,Street Sign Maintenance
+474,Problem reported in Street Repairs area at MG Road causing inconvenience.,Street Repairs
+475,Problem reported in City Planning area at West Park causing inconvenience.,City Planning
+476,Problem reported in Bus Stops area at Park Avenue causing inconvenience.,Bus Stops
+477,Problem reported in Noise Pollution area at Downtown causing inconvenience.,Noise Pollution
+478,Problem reported in Public Parks Safety area at Sector 9 causing inconvenience.,Public Parks Safety
+479,Problem reported in Public Safety area at North End causing inconvenience.,Public Safety
+480,Problem reported in Public Pools area at Main Street causing inconvenience.,Public Pools
+481,Problem reported in Disaster Management area at West Park causing inconvenience.,Disaster Management
+482,Problem reported in Animal Shelters area at Main Street causing inconvenience.,Animal Shelters
+483,Problem reported in Street Vendors area at Old Town causing inconvenience.,Street Vendors
+484,Problem reported in Rodent Control area at Riverbank causing inconvenience.,Rodent Control
+485,Problem reported in Water Leak Detection area at Main Street causing inconvenience.,Water Leak Detection
+486,Problem reported in Animal Shelters area at Park Avenue causing inconvenience.,Animal Shelters
+487,Problem reported in Street Vendors area at Old Town causing inconvenience.,Street Vendors
+488,Problem reported in Police area at MG Road causing inconvenience.,Police
+489,Problem reported in Street Closures area at Sector 9 causing inconvenience.,Street Closures
+490,Problem reported in Street Drainage area at North End causing inconvenience.,Street Drainage
+491,Problem reported in Waste Management area at Old Town causing inconvenience.,Waste Management
+492,Problem reported in Street Repairs area at Sector 9 causing inconvenience.,Street Repairs
+493,Problem reported in Public Transport area at West Park causing inconvenience.,Public Transport
+494,Problem reported in Public Playground Safety area at Main Street causing inconvenience.,Public Playground Safety
+495,Problem reported in Public Parking Enforcement area at North End causing inconvenience.,Public Parking Enforcement
+496,Problem reported in Taxi Services area at Sector 9 causing inconvenience.,Taxi Services
+497,Problem reported in Building Maintenance area at Main Street causing inconvenience.,Building Maintenance
+498,Problem reported in Public Pools Maintenance area at Old Town causing inconvenience.,Public Pools Maintenance
+499,Problem reported in Street Cleaning Schedule area at West Park causing inconvenience.,Street Cleaning Schedule
+500,Problem reported in Traffic Enforcement area at MG Road causing inconvenience.,Traffic Enforcement
+501,Problem reported in Public Schools Maintenance area at North End causing inconvenience.,Public Schools Maintenance
+502,Problem reported in Street Cleaning Schedule area at Main Street causing inconvenience.,Street Cleaning Schedule
+503,Problem reported in Animal Control area at Sector 9 causing inconvenience.,Animal Control
+504,Problem reported in Water Metering area at Downtown causing inconvenience.,Water Metering
+505,Problem reported in Parks and Recreation area at Downtown causing inconvenience.,Parks and Recreation
+506,Problem reported in Community Centers area at Sector 9 causing inconvenience.,Community Centers
+507,Problem reported in Parks and Recreation area at North End causing inconvenience.,Parks and Recreation
+508,Problem reported in Street Cleaning Schedule area at Old Town causing inconvenience.,Street Cleaning Schedule
+509,Problem reported in Road Signs area at Sector 9 causing inconvenience.,Road Signs
+510,Problem reported in Bus Schedules area at Hill Valley causing inconvenience.,Bus Schedules
+511,Problem reported in Tree Maintenance area at Old Town causing inconvenience.,Tree Maintenance
+512,Problem reported in Public Art area at Downtown causing inconvenience.,Public Art
+513,Problem reported in Graffiti Removal area at Sector 9 causing inconvenience.,Graffiti Removal
+514,Problem reported in Public Schools Maintenance area at Old Town causing inconvenience.,Public Schools Maintenance
+515,Problem reported in Homeless Shelters area at Sector 9 causing inconvenience.,Homeless Shelters
+516,Problem reported in Road Accidents area at Riverbank causing inconvenience.,Road Accidents
+517,Problem reported in Snow Removal area at Old Town causing inconvenience.,Snow Removal
+518,Problem reported in Road Accidents area at Main Street causing inconvenience.,Road Accidents
+519,Problem reported in Street Closures area at Sector 9 causing inconvenience.,Street Closures
+520,Problem reported in Building Codes area at Downtown causing inconvenience.,Building Codes
+521,Problem reported in City Planning area at West Park causing inconvenience.,City Planning
+522,Problem reported in Building Permits area at Sector 9 causing inconvenience.,Building Permits
+523,Problem reported in Bridge Maintenance area at Hill Valley causing inconvenience.,Bridge Maintenance
+524,Problem reported in Community Centers area at West Park causing inconvenience.,Community Centers
+525,Problem reported in Street Closures area at Park Avenue causing inconvenience.,Street Closures
+526,Problem reported in Parks and Recreation area at Park Avenue causing inconvenience.,Parks and Recreation
+527,Problem reported in Air Pollution area at Sector 9 causing inconvenience.,Air Pollution
+528,Problem reported in Fire Safety area at West Park causing inconvenience.,Fire Safety
+529,Problem reported in Bus Schedules area at North End causing inconvenience.,Bus Schedules
+530,Problem reported in Rodent Control area at Downtown causing inconvenience.,Rodent Control
+531,Problem reported in Emergency Services area at North End causing inconvenience.,Emergency Services
+532,Problem reported in Street Sign Maintenance area at Riverbank causing inconvenience.,Street Sign Maintenance
+533,Problem reported in Street Cleaning area at Sector 9 causing inconvenience.,Street Cleaning
+534,Problem reported in Permit Issuance area at West Park causing inconvenience.,Permit Issuance
+535,Problem reported in Hospitals area at Park Avenue causing inconvenience.,Hospitals
+536,Problem reported in Traffic area at MG Road causing inconvenience.,Traffic
+537,Problem reported in Monuments area at Downtown causing inconvenience.,Monuments
+538,Problem reported in Taxi Services area at Park Avenue causing inconvenience.,Taxi Services
+539,Problem reported in Zoning area at Old Town causing inconvenience.,Zoning
+540,Problem reported in Taxi Services area at Hill Valley causing inconvenience.,Taxi Services
+541,Problem reported in Fire Safety area at North End causing inconvenience.,Fire Safety
+542,Problem reported in Graffiti Removal area at Downtown causing inconvenience.,Graffiti Removal
+543,Problem reported in Stormwater Management area at West Park causing inconvenience.,Stormwater Management
+544,No water supply since morning in North End.,Water Supply
+545,Problem reported in Sidewalks area at Downtown causing inconvenience.,Sidewalks
+546,Problem reported in Street Furniture area at Park Avenue causing inconvenience.,Street Furniture
+547,Problem reported in Public Pools Maintenance area at Sector 9 causing inconvenience.,Public Pools Maintenance
+548,Problem reported in Public Schools Maintenance area at Old Town causing inconvenience.,Public Schools Maintenance
+549,Problem reported in Noise Pollution area at Downtown causing inconvenience.,Noise Pollution
+550,Problem reported in Public Health Clinics area at Old Town causing inconvenience.,Public Health Clinics
+551,Problem reported in Bridge Maintenance area at Riverbank causing inconvenience.,Bridge Maintenance
+552,Problem reported in Building Codes area at Main Street causing inconvenience.,Building Codes
+553,Problem reported in Street Lighting area at West Park causing inconvenience.,Street Lighting
+554,Problem reported in Street Performers area at West Park causing inconvenience.,Street Performers
+555,Problem reported in Bike Sharing Services area at MG Road causing inconvenience.,Bike Sharing Services
+556,Problem reported in Taxi Services area at Riverbank causing inconvenience.,Taxi Services
+557,Problem reported in Permit Issuance area at MG Road causing inconvenience.,Permit Issuance
+558,Problem reported in Road Accidents area at Hill Valley causing inconvenience.,Road Accidents
+559,Problem reported in Bike Sharing Services area at Park Avenue causing inconvenience.,Bike Sharing Services
+560,Problem reported in Graffiti area at Riverbank causing inconvenience.,Graffiti
+561,Problem reported in Schools area at Main Street causing inconvenience.,Schools
+562,Problem reported in Animal Control area at Sector 9 causing inconvenience.,Animal Control
+563,Problem reported in Traffic Signals area at Sector 9 causing inconvenience.,Traffic Signals
+564,Problem reported in Animal Control area at Main Street causing inconvenience.,Animal Control
+565,Problem reported in Animal Shelters area at West Park causing inconvenience.,Animal Shelters
+566,Problem reported in Parks Lighting area at Main Street causing inconvenience.,Parks Lighting
+567,Problem reported in Flooding area at Main Street causing inconvenience.,Flooding
+568,There is a leak in the water pipe near Old Town street.,Water Supply
+569,Problem reported in Street Furniture Maintenance area at Park Avenue causing inconvenience.,Street Furniture Maintenance
+570,Problem reported in Traffic area at Main Street causing inconvenience.,Traffic
+571,Problem reported in Parks Lighting area at Park Avenue causing inconvenience.,Parks Lighting
+572,Problem reported in Street Lighting Maintenance area at Park Avenue causing inconvenience.,Street Lighting Maintenance
+573,Problem reported in Public Pools Maintenance area at Riverbank causing inconvenience.,Public Pools Maintenance
+574,Problem reported in Taxi Services area at Sector 9 causing inconvenience.,Taxi Services
+575,Problem reported in Schools area at Hill Valley causing inconvenience.,Schools
+576,Problem reported in Water Billing area at Downtown causing inconvenience.,Water Billing
+577,Problem reported in Permit Issuance area at MG Road causing inconvenience.,Permit Issuance
+578,Problem reported in Noise Pollution area at Downtown causing inconvenience.,Noise Pollution
+579,Problem reported in Street Lighting area at North End causing inconvenience.,Street Lighting
+580,Problem reported in Water Billing area at Sector 9 causing inconvenience.,Water Billing
+581,Problem reported in Public Landscaping area at Downtown causing inconvenience.,Public Landscaping
+582,Water pressure is very low in Main Street neighborhood.,Water Supply
+583,No water supply since morning in Downtown.,Water Supply
+584,Problem reported in Water Billing area at Riverbank causing inconvenience.,Water Billing
+585,Problem reported in Cemeteries area at MG Road causing inconvenience.,Cemeteries
+586,Problem reported in Street Furniture Maintenance area at West Park causing inconvenience.,Street Furniture Maintenance
+587,Problem reported in Building Maintenance area at MG Road causing inconvenience.,Building Maintenance
+588,Problem reported in Street Sign Maintenance area at North End causing inconvenience.,Street Sign Maintenance
+589,Problem reported in Street Lighting area at Main Street causing inconvenience.,Street Lighting
+590,Problem reported in Fire Safety area at Sector 9 causing inconvenience.,Fire Safety
+591,Problem reported in Swimming Pools Safety area at North End causing inconvenience.,Swimming Pools Safety
+592,Problem reported in Water Billing area at Park Avenue causing inconvenience.,Water Billing
+593,Problem reported in Bike Lanes area at Park Avenue causing inconvenience.,Bike Lanes
+594,Problem reported in Street Furniture Maintenance area at Downtown causing inconvenience.,Street Furniture Maintenance
+595,Problem reported in Road Accidents area at North End causing inconvenience.,Road Accidents
+596,Problem reported in Street Vendors area at Riverbank causing inconvenience.,Street Vendors
+597,Problem reported in Public Health Clinics area at Main Street causing inconvenience.,Public Health Clinics
+598,Problem reported in Noise Pollution area at Sector 9 causing inconvenience.,Noise Pollution
+599,Problem reported in Public Events Noise area at Downtown causing inconvenience.,Public Events Noise
+600,Problem reported in Rodent Control area at Hill Valley causing inconvenience.,Rodent Control
+601,Problem reported in Police area at Hill Valley causing inconvenience.,Police
+602,Problem reported in Parking area at Sector 9 causing inconvenience.,Parking
+603,Problem reported in Street Cleaning Schedule area at MG Road causing inconvenience.,Street Cleaning Schedule
+604,Problem reported in Street Performers area at Park Avenue causing inconvenience.,Street Performers
+605,Problem reported in Public Pools area at Downtown causing inconvenience.,Public Pools
+606,Problem reported in Street Sign Maintenance area at Sector 9 causing inconvenience.,Street Sign Maintenance
+607,Problem reported in Monuments area at West Park causing inconvenience.,Monuments
+608,Problem reported in Emergency Services area at West Park causing inconvenience.,Emergency Services
+609,Problem reported in Bridge Maintenance area at Main Street causing inconvenience.,Bridge Maintenance
+610,Problem reported in Air Pollution area at MG Road causing inconvenience.,Air Pollution
+611,Problem reported in Potholes area at North End causing inconvenience.,Potholes
+612,Problem reported in Street Drainage area at North End causing inconvenience.,Street Drainage
+613,Problem reported in Swimming Pools Safety area at MG Road causing inconvenience.,Swimming Pools Safety
+614,Problem reported in Air Pollution area at North End causing inconvenience.,Air Pollution
+615,There is a leak in the water pipe near North End street.,Water Supply
+616,Problem reported in Public Transport Maintenance area at MG Road causing inconvenience.,Public Transport Maintenance
+617,Problem reported in Potholes area at Park Avenue causing inconvenience.,Potholes
+618,Problem reported in Public Health Clinics area at North End causing inconvenience.,Public Health Clinics
+619,There is a leak in the water pipe near Hill Valley street.,Water Supply
+620,Problem reported in Public Transport Maintenance area at MG Road causing inconvenience.,Public Transport Maintenance
+621,Problem reported in Zoning area at Riverbank causing inconvenience.,Zoning
+622,Problem reported in Bike Sharing Services area at Downtown causing inconvenience.,Bike Sharing Services
+623,Problem reported in Police area at Sector 9 causing inconvenience.,Police
+624,Streetlight on West Park avenue is broken.,Electricity
+625,Problem reported in Street Cleaning Schedule area at Old Town causing inconvenience.,Street Cleaning Schedule
+626,Problem reported in Street Lighting area at Downtown causing inconvenience.,Street Lighting
+627,Problem reported in Bridge Maintenance area at Main Street causing inconvenience.,Bridge Maintenance
+628,There is a leak in the water pipe near Park Avenue street.,Water Supply
+629,Problem reported in Building Codes area at MG Road causing inconvenience.,Building Codes
+630,Problem reported in Snow Removal area at Riverbank causing inconvenience.,Snow Removal
+631,Problem reported in Pavement Markings area at Old Town causing inconvenience.,Pavement Markings
+632,Problem reported in Street Lighting area at Park Avenue causing inconvenience.,Street Lighting
+633,Frequent power fluctuations damaging appliances in North End.,Electricity
+634,Problem reported in Graffiti Removal area at Main Street causing inconvenience.,Graffiti Removal
+635,Problem reported in Zoning area at West Park causing inconvenience.,Zoning
+636,Problem reported in Bike Sharing Services area at Old Town causing inconvenience.,Bike Sharing Services
+637,Problem reported in Graffiti area at MG Road causing inconvenience.,Graffiti
+638,Problem reported in Street Cleaning area at Sector 9 causing inconvenience.,Street Cleaning
+639,Problem reported in Public Events Noise area at Sector 9 causing inconvenience.,Public Events Noise
+640,Problem reported in Sewage area at Old Town causing inconvenience.,Sewage
+641,Problem reported in Police area at Riverbank causing inconvenience.,Police
+642,Problem reported in Energy Conservation area at Riverbank causing inconvenience.,Energy Conservation
+643,Problem reported in Animal Shelters area at Hill Valley causing inconvenience.,Animal Shelters
+644,Problem reported in Swimming Pools Safety area at Park Avenue causing inconvenience.,Swimming Pools Safety
+645,Problem reported in Street Repairs area at North End causing inconvenience.,Street Repairs
+646,Problem reported in Graffiti area at Riverbank causing inconvenience.,Graffiti
+647,Problem reported in Recycling Services area at Hill Valley causing inconvenience.,Recycling Services
+648,Problem reported in Bike Sharing Services area at MG Road causing inconvenience.,Bike Sharing Services
+649,Problem reported in Cemeteries area at Old Town causing inconvenience.,Cemeteries
+650,Problem reported in Public Schools Maintenance area at West Park causing inconvenience.,Public Schools Maintenance
+651,Problem reported in Building Maintenance area at Hill Valley causing inconvenience.,Building Maintenance
+652,Problem reported in Pavement Markings area at MG Road causing inconvenience.,Pavement Markings
+653,Problem reported in Urban Planning area at Park Avenue causing inconvenience.,Urban Planning
+654,Problem reported in Taxi Services area at Main Street causing inconvenience.,Taxi Services
+655,Problem reported in Bike Lanes area at Riverbank causing inconvenience.,Bike Lanes
+656,Problem reported in Traffic Signals area at Sector 9 causing inconvenience.,Traffic Signals
+657,Problem reported in Public Pools area at Riverbank causing inconvenience.,Public Pools
+658,Problem reported in Parking area at Riverbank causing inconvenience.,Parking
+659,Problem reported in Sewer Maintenance area at Downtown causing inconvenience.,Sewer Maintenance
+660,Problem reported in Snow Removal area at North End causing inconvenience.,Snow Removal
+661,Problem reported in Permit Issuance area at West Park causing inconvenience.,Permit Issuance
+662,Problem reported in Traffic Enforcement area at Downtown causing inconvenience.,Traffic Enforcement
+663,Problem reported in Sidewalk Repair area at North End causing inconvenience.,Sidewalk Repair
+664,Problem reported in Public Schools Maintenance area at Park Avenue causing inconvenience.,Public Schools Maintenance
+665,Problem reported in Public Markets area at Riverbank causing inconvenience.,Public Markets
+666,Problem reported in Street Lighting Maintenance area at West Park causing inconvenience.,Street Lighting Maintenance
+667,Problem reported in Bike Lanes area at MG Road causing inconvenience.,Bike Lanes
+668,Problem reported in Swimming Pools Safety area at Hill Valley causing inconvenience.,Swimming Pools Safety
+669,Problem reported in Water Quality area at Sector 9 causing inconvenience.,Water Quality
+670,Problem reported in Illegal Dumping area at West Park causing inconvenience.,Illegal Dumping
+671,Problem reported in Street Repairs area at Main Street causing inconvenience.,Street Repairs
+672,Cracks and damage visible on North End highway.,Roads
+673,Problem reported in Water Quality area at Park Avenue causing inconvenience.,Water Quality
+674,Problem reported in Public Art area at West Park causing inconvenience.,Public Art
+675,Problem reported in Public Markets area at MG Road causing inconvenience.,Public Markets
+676,Problem reported in Public Libraries area at Old Town causing inconvenience.,Public Libraries
+677,Problem reported in Public Events Noise area at Park Avenue causing inconvenience.,Public Events Noise
+678,Problem reported in Building Permits area at Riverbank causing inconvenience.,Building Permits
+679,Problem reported in Public Libraries area at Park Avenue causing inconvenience.,Public Libraries
+680,Problem reported in Urban Planning area at Main Street causing inconvenience.,Urban Planning
+681,Problem reported in Street Closures area at Downtown causing inconvenience.,Street Closures
+682,Problem reported in Disaster Management area at Main Street causing inconvenience.,Disaster Management
+683,Problem reported in Public Transport Maintenance area at Main Street causing inconvenience.,Public Transport Maintenance
+684,Problem reported in Pavement Markings area at Hill Valley causing inconvenience.,Pavement Markings
+685,Problem reported in Fire Safety area at Riverbank causing inconvenience.,Fire Safety
+686,Problem reported in Construction Noise area at MG Road causing inconvenience.,Construction Noise
+687,Problem reported in Schools area at Riverbank causing inconvenience.,Schools
+688,Problem reported in Recycling Services area at Sector 9 causing inconvenience.,Recycling Services
+689,Problem reported in Road Accidents area at Main Street causing inconvenience.,Road Accidents
+690,Problem reported in Street Furniture area at Riverbank causing inconvenience.,Street Furniture
+691,Problem reported in Electric Billing area at North End causing inconvenience.,Electric Billing
+692,Problem reported in Swimming Pools Safety area at Riverbank causing inconvenience.,Swimming Pools Safety
+693,Problem reported in Snow Removal area at Sector 9 causing inconvenience.,Snow Removal
+694,Problem reported in Public Art area at Riverbank causing inconvenience.,Public Art
+695,Problem reported in Parks and Recreation area at West Park causing inconvenience.,Parks and Recreation
+696,Problem reported in Public Schools Maintenance area at Park Avenue causing inconvenience.,Public Schools Maintenance
+697,Problem reported in Street Furniture area at Park Avenue causing inconvenience.,Street Furniture
+698,Problem reported in Potholes area at Hill Valley causing inconvenience.,Potholes
+699,Problem reported in Water Quality area at West Park causing inconvenience.,Water Quality
+700,Problem reported in Flooding area at Main Street causing inconvenience.,Flooding
+701,Problem reported in Water Quality area at MG Road causing inconvenience.,Water Quality
+702,Problem reported in Rodent Control area at West Park causing inconvenience.,Rodent Control
+703,Problem reported in Street Closures area at Park Avenue causing inconvenience.,Street Closures
+704,Problem reported in Building Maintenance area at Main Street causing inconvenience.,Building Maintenance
+705,Problem reported in Police area at MG Road causing inconvenience.,Police
+706,Problem reported in Water Leak Detection area at Sector 9 causing inconvenience.,Water Leak Detection
+707,Problem reported in Bridge Maintenance area at Old Town causing inconvenience.,Bridge Maintenance
+708,Problem reported in Street Repairs area at Riverbank causing inconvenience.,Street Repairs
+709,Problem reported in Street Performers area at Hill Valley causing inconvenience.,Street Performers
+710,Problem reported in Public Toilets area at Sector 9 causing inconvenience.,Public Toilets
+711,Problem reported in Public Art area at MG Road causing inconvenience.,Public Art
+712,Problem reported in Street Cleaning Schedule area at MG Road causing inconvenience.,Street Cleaning Schedule
+713,Problem reported in Street Furniture area at Riverbank causing inconvenience.,Street Furniture
+714,Problem reported in Urban Planning area at Old Town causing inconvenience.,Urban Planning
+715,Problem reported in Street Closures area at Downtown causing inconvenience.,Street Closures
+716,Problem reported in Water Leak Detection area at West Park causing inconvenience.,Water Leak Detection
+717,Problem reported in Public Playground Safety area at Park Avenue causing inconvenience.,Public Playground Safety
+718,Problem reported in Public Parking Enforcement area at Downtown causing inconvenience.,Public Parking Enforcement
+719,Problem reported in Electric Billing area at Old Town causing inconvenience.,Electric Billing
+720,Problem reported in Stormwater Management area at North End causing inconvenience.,Stormwater Management
+721,Problem reported in Rodent Control area at Sector 9 causing inconvenience.,Rodent Control
+722,Problem reported in Air Pollution area at North End causing inconvenience.,Air Pollution
+723,Problem reported in Recycling Services area at Old Town causing inconvenience.,Recycling Services
+724,Problem reported in Pavement Markings area at Hill Valley causing inconvenience.,Pavement Markings
+725,Problem reported in Traffic Enforcement area at Downtown causing inconvenience.,Traffic Enforcement
+726,Problem reported in Traffic Signals area at MG Road causing inconvenience.,Traffic Signals
+727,Problem reported in Swimming Pools Safety area at Park Avenue causing inconvenience.,Swimming Pools Safety
+728,Problem reported in Public Events Noise area at Main Street causing inconvenience.,Public Events Noise
+729,Problem reported in Construction Noise area at Riverbank causing inconvenience.,Construction Noise
+730,Problem reported in Stormwater Management area at Downtown causing inconvenience.,Stormwater Management
+731,Problem reported in Street Drainage area at Hill Valley causing inconvenience.,Street Drainage
+732,Problem reported in Illegal Dumping area at Park Avenue causing inconvenience.,Illegal Dumping
+733,Problem reported in Road Accidents area at Sector 9 causing inconvenience.,Road Accidents
+734,Problem reported in Community Centers area at Downtown causing inconvenience.,Community Centers
+735,Problem reported in Drainage area at Riverbank causing inconvenience.,Drainage
+736,Problem reported in Water Quality area at Hill Valley causing inconvenience.,Water Quality
+737,Problem reported in Public Parking Enforcement area at Riverbank causing inconvenience.,Public Parking Enforcement
+738,Problem reported in Cemeteries area at MG Road causing inconvenience.,Cemeteries
+739,Problem reported in Cemeteries area at Sector 9 causing inconvenience.,Cemeteries
+740,Problem reported in Bike Lanes area at Park Avenue causing inconvenience.,Bike Lanes
+741,Problem reported in Public Transport area at MG Road causing inconvenience.,Public Transport
+742,Problem reported in Street Furniture Maintenance area at North End causing inconvenience.,Street Furniture Maintenance
+743,Problem reported in Animal Control area at Sector 9 causing inconvenience.,Animal Control
+744,Problem reported in Parks and Recreation area at MG Road causing inconvenience.,Parks and Recreation
+745,Problem reported in Street Furniture Maintenance area at Main Street causing inconvenience.,Street Furniture Maintenance
+746,Problem reported in Public Playground Safety area at Park Avenue causing inconvenience.,Public Playground Safety
+747,Problem reported in Drainage area at Riverbank causing inconvenience.,Drainage
+748,Problem reported in Bike Sharing Services area at Hill Valley causing inconvenience.,Bike Sharing Services
+749,Problem reported in Bike Lanes area at Sector 9 causing inconvenience.,Bike Lanes
+750,Problem reported in Sidewalk Repair area at Main Street causing inconvenience.,Sidewalk Repair
+751,Problem reported in Rodent Control area at Riverbank causing inconvenience.,Rodent Control
+752,Problem reported in Bridge Maintenance area at North End causing inconvenience.,Bridge Maintenance
+753,Problem reported in Permit Issuance area at Old Town causing inconvenience.,Permit Issuance
+754,Problem reported in Energy Conservation area at North End causing inconvenience.,Energy Conservation
+755,Problem reported in Street Lighting Maintenance area at Main Street causing inconvenience.,Street Lighting Maintenance
+756,Problem reported in Homeless Shelters area at Main Street causing inconvenience.,Homeless Shelters
+757,Problem reported in Illegal Dumping area at Sector 9 causing inconvenience.,Illegal Dumping
+758,Problem reported in Public Parking Enforcement area at Main Street causing inconvenience.,Public Parking Enforcement
+759,Problem reported in Zoning area at MG Road causing inconvenience.,Zoning
+760,Problem reported in Bike Lanes area at Downtown causing inconvenience.,Bike Lanes
+761,Problem reported in Water Billing area at Downtown causing inconvenience.,Water Billing
+762,Problem reported in Bike Lanes area at West Park causing inconvenience.,Bike Lanes
+763,Problem reported in Water Billing area at North End causing inconvenience.,Water Billing
+764,Problem reported in Disaster Management area at MG Road causing inconvenience.,Disaster Management
+765,Problem reported in Parking area at Old Town causing inconvenience.,Parking
+766,Problem reported in Bike Sharing Services area at Sector 9 causing inconvenience.,Bike Sharing Services
+767,Illegal dumping found near MG Road park.,Garbage
+768,Problem reported in Traffic area at Main Street causing inconvenience.,Traffic
+769,Problem reported in Drainage area at Sector 9 causing inconvenience.,Drainage
+770,Problem reported in Street Cleaning area at Main Street causing inconvenience.,Street Cleaning
+771,Problem reported in Street Sign Maintenance area at Downtown causing inconvenience.,Street Sign Maintenance
+772,Problem reported in Public Markets area at Hill Valley causing inconvenience.,Public Markets
+773,Problem reported in Water Leak Detection area at Downtown causing inconvenience.,Water Leak Detection
+774,Problem reported in Street Furniture Maintenance area at Main Street causing inconvenience.,Street Furniture Maintenance
+775,Problem reported in Flooding area at West Park causing inconvenience.,Flooding
+776,Problem reported in Water Billing area at Main Street causing inconvenience.,Water Billing
+777,Problem reported in Rodent Control area at Park Avenue causing inconvenience.,Rodent Control
+778,Problem reported in Street Repairs area at Downtown causing inconvenience.,Street Repairs
+779,Problem reported in Water Metering area at MG Road causing inconvenience.,Water Metering
+780,Problem reported in Animal Shelters area at Downtown causing inconvenience.,Animal Shelters
+781,Problem reported in Tree Maintenance area at Downtown causing inconvenience.,Tree Maintenance
+782,Problem reported in Sewage area at Park Avenue causing inconvenience.,Sewage
+783,Problem reported in Waste Management area at North End causing inconvenience.,Waste Management
+784,Problem reported in Building Maintenance area at North End causing inconvenience.,Building Maintenance
+785,Problem reported in Flooding area at Main Street causing inconvenience.,Flooding
+786,Problem reported in Water Quality area at Main Street causing inconvenience.,Water Quality
+787,Problem reported in Graffiti area at Downtown causing inconvenience.,Graffiti
+788,Problem reported in Street Repairs area at North End causing inconvenience.,Street Repairs
+789,Problem reported in Street Sign Maintenance area at Hill Valley causing inconvenience.,Street Sign Maintenance
+790,Problem reported in Street Furniture area at Park Avenue causing inconvenience.,Street Furniture
+791,Problem reported in Noise Pollution area at Sector 9 causing inconvenience.,Noise Pollution
+792,Problem reported in Street Vendors area at Downtown causing inconvenience.,Street Vendors
+793,Problem reported in Bus Schedules area at North End causing inconvenience.,Bus Schedules
+794,Problem reported in Street Lighting area at Old Town causing inconvenience.,Street Lighting
+795,Problem reported in Parking area at North End causing inconvenience.,Parking
+796,Problem reported in Traffic Enforcement area at MG Road causing inconvenience.,Traffic Enforcement
+797,Problem reported in Sidewalk Repair area at Sector 9 causing inconvenience.,Sidewalk Repair
+798,Problem reported in Water Leak Detection area at Old Town causing inconvenience.,Water Leak Detection
+799,Problem reported in Street Cleaning area at West Park causing inconvenience.,Street Cleaning
+800,Problem reported in Animal Control area at Sector 9 causing inconvenience.,Animal Control
+801,Problem reported in Animal Control area at Main Street causing inconvenience.,Animal Control
+802,Problem reported in Bike Lanes area at North End causing inconvenience.,Bike Lanes
+803,Problem reported in Waste Management area at Park Avenue causing inconvenience.,Waste Management
+804,Problem reported in Street Cleaning area at West Park causing inconvenience.,Street Cleaning
+805,Problem reported in Street Performers area at Downtown causing inconvenience.,Street Performers
+806,Problem reported in Public Libraries area at Old Town causing inconvenience.,Public Libraries
+807,Problem reported in Street Repairs area at MG Road causing inconvenience.,Street Repairs
+808,Problem reported in City Planning area at Downtown causing inconvenience.,City Planning
+809,Problem reported in Street Vendors area at Old Town causing inconvenience.,Street Vendors
+810,Problem reported in Waste Management area at Downtown causing inconvenience.,Waste Management
+811,Cracks and damage visible on North End highway.,Roads
+812,Problem reported in Street Vendors area at Main Street causing inconvenience.,Street Vendors
+813,Problem reported in Building Permits area at Main Street causing inconvenience.,Building Permits
+814,Problem reported in Bridge Maintenance area at Sector 9 causing inconvenience.,Bridge Maintenance
+815,Problem reported in Swimming Pools Safety area at Downtown causing inconvenience.,Swimming Pools Safety
+816,Problem reported in Disaster Management area at Park Avenue causing inconvenience.,Disaster Management
+817,Problem reported in Sewer Maintenance area at Park Avenue causing inconvenience.,Sewer Maintenance
+818,Problem reported in Sidewalks area at North End causing inconvenience.,Sidewalks
+819,Problem reported in Street Lighting Maintenance area at MG Road causing inconvenience.,Street Lighting Maintenance
+820,Problem reported in Parks Lighting area at Hill Valley causing inconvenience.,Parks Lighting
+821,Problem reported in Public Toilets area at Downtown causing inconvenience.,Public Toilets
+822,Problem reported in Fire Safety area at West Park causing inconvenience.,Fire Safety
+823,Problem reported in Street Cleaning area at North End causing inconvenience.,Street Cleaning
+824,Problem reported in Graffiti area at West Park causing inconvenience.,Graffiti
+825,Problem reported in Flooding area at Park Avenue causing inconvenience.,Flooding
+826,Problem reported in Water Metering area at West Park causing inconvenience.,Water Metering
+827,Problem reported in Public Events Noise area at Park Avenue causing inconvenience.,Public Events Noise
+828,Problem reported in Public Landscaping area at MG Road causing inconvenience.,Public Landscaping
+829,Problem reported in Sewage area at Hill Valley causing inconvenience.,Sewage
+830,No water supply since morning in Sector 9.,Water Supply
+831,Problem reported in Public Events Noise area at Old Town causing inconvenience.,Public Events Noise
+832,Problem reported in Electric Billing area at Park Avenue causing inconvenience.,Electric Billing
+833,Problem reported in Waste Management area at Riverbank causing inconvenience.,Waste Management
+834,Problem reported in Noise Pollution area at Sector 9 causing inconvenience.,Noise Pollution
+835,Problem reported in Water Metering area at West Park causing inconvenience.,Water Metering
+836,Problem reported in Illegal Dumping area at North End causing inconvenience.,Illegal Dumping
+837,Problem reported in Noise Pollution area at North End causing inconvenience.,Noise Pollution
+838,Problem reported in Drainage area at North End causing inconvenience.,Drainage
+839,Problem reported in Public Pools area at Riverbank causing inconvenience.,Public Pools
+840,Problem reported in Public Pools area at Park Avenue causing inconvenience.,Public Pools
+841,Problem reported in Public Toilets area at MG Road causing inconvenience.,Public Toilets
+842,Problem reported in Electric Billing area at Riverbank causing inconvenience.,Electric Billing
+843,Problem reported in Fire Safety area at Hill Valley causing inconvenience.,Fire Safety
+844,Problem reported in Drainage area at Downtown causing inconvenience.,Drainage
+845,Problem reported in Electric Billing area at Park Avenue causing inconvenience.,Electric Billing
+846,Problem reported in Tree Maintenance area at Main Street causing inconvenience.,Tree Maintenance
+847,Problem reported in Street Drainage area at Riverbank causing inconvenience.,Street Drainage
+848,Problem reported in Water Leak Detection area at West Park causing inconvenience.,Water Leak Detection
+849,Problem reported in Sewer Maintenance area at Park Avenue causing inconvenience.,Sewer Maintenance
+850,Problem reported in Recycling Services area at Hill Valley causing inconvenience.,Recycling Services
+851,Problem reported in Swimming Pools Safety area at MG Road causing inconvenience.,Swimming Pools Safety
+852,Problem reported in Animal Shelters area at Sector 9 causing inconvenience.,Animal Shelters
+853,Problem reported in Sidewalk Repair area at Old Town causing inconvenience.,Sidewalk Repair
+854,Problem reported in Construction Noise area at Sector 9 causing inconvenience.,Construction Noise
+855,Problem reported in Public Parking Enforcement area at Downtown causing inconvenience.,Public Parking Enforcement
+856,Problem reported in Street Sweeping area at Old Town causing inconvenience.,Street Sweeping
+857,Problem reported in Building Permits area at Sector 9 causing inconvenience.,Building Permits
+858,Problem reported in Parks and Recreation area at Sector 9 causing inconvenience.,Parks and Recreation
+859,Problem reported in Fire Safety area at Sector 9 causing inconvenience.,Fire Safety
+860,Problem reported in Building Permits area at Sector 9 causing inconvenience.,Building Permits
+861,Problem reported in Public Health Clinics area at Main Street causing inconvenience.,Public Health Clinics
+862,Problem reported in Energy Conservation area at Park Avenue causing inconvenience.,Energy Conservation
+863,Problem reported in Traffic Enforcement area at Hill Valley causing inconvenience.,Traffic Enforcement
+864,Problem reported in Public Toilets area at Riverbank causing inconvenience.,Public Toilets
+865,Problem reported in Public Playground Safety area at Sector 9 causing inconvenience.,Public Playground Safety
+866,Problem reported in Road Accidents area at Riverbank causing inconvenience.,Road Accidents
+867,Frequent power fluctuations damaging appliances in Old Town.,Electricity
+868,Problem reported in Air Pollution area at Downtown causing inconvenience.,Air Pollution
+869,Problem reported in Construction Noise area at Hill Valley causing inconvenience.,Construction Noise
+870,Problem reported in Street Performers area at Old Town causing inconvenience.,Street Performers
+871,Problem reported in Building Permits area at West Park causing inconvenience.,Building Permits
+872,Problem reported in Bus Schedules area at Sector 9 causing inconvenience.,Bus Schedules
+873,Problem reported in Potholes area at West Park causing inconvenience.,Potholes
+874,Problem reported in Building Maintenance area at Hill Valley causing inconvenience.,Building Maintenance
+875,Problem reported in Public Landscaping area at Hill Valley causing inconvenience.,Public Landscaping
+876,Problem reported in Building Maintenance area at Main Street causing inconvenience.,Building Maintenance
+877,Problem reported in Animal Shelters area at Hill Valley causing inconvenience.,Animal Shelters
+878,Problem reported in Police area at Old Town causing inconvenience.,Police
+879,Problem reported in Sewage area at Park Avenue causing inconvenience.,Sewage
+880,Problem reported in Cemeteries area at Sector 9 causing inconvenience.,Cemeteries
+881,Problem reported in Electric Billing area at Park Avenue causing inconvenience.,Electric Billing
+882,Problem reported in Bus Stops area at Downtown causing inconvenience.,Bus Stops
+883,Problem reported in Bus Schedules area at Sector 9 causing inconvenience.,Bus Schedules
+884,Problem reported in Street Vendors area at Hill Valley causing inconvenience.,Street Vendors
+885,Problem reported in Graffiti Removal area at Main Street causing inconvenience.,Graffiti Removal
+886,Problem reported in Rodent Control area at Old Town causing inconvenience.,Rodent Control
+887,Large potholes on Sector 9 road making driving unsafe.,Roads
+888,Problem reported in Water Metering area at Riverbank causing inconvenience.,Water Metering
+889,Problem reported in Animal Control area at Hill Valley causing inconvenience.,Animal Control
+890,Problem reported in Monuments area at North End causing inconvenience.,Monuments
+891,Problem reported in Sewer Maintenance area at Park Avenue causing inconvenience.,Sewer Maintenance
+892,Problem reported in Street Sweeping area at Old Town causing inconvenience.,Street Sweeping
+893,Road needs urgent repair on Riverbank street.,Roads
+894,Problem reported in Construction Noise area at Main Street causing inconvenience.,Construction Noise
+895,Problem reported in Bus Schedules area at West Park causing inconvenience.,Bus Schedules
+896,Problem reported in Bus Schedules area at Old Town causing inconvenience.,Bus Schedules
+897,Problem reported in Water Leak Detection area at North End causing inconvenience.,Water Leak Detection
+898,Problem reported in Bike Sharing Services area at North End causing inconvenience.,Bike Sharing Services
+899,Problem reported in Bike Lanes area at Hill Valley causing inconvenience.,Bike Lanes
+900,Problem reported in Monuments area at MG Road causing inconvenience.,Monuments
+901,Problem reported in Rodent Control area at West Park causing inconvenience.,Rodent Control
+902,Problem reported in Sewage area at Hill Valley causing inconvenience.,Sewage
+903,Problem reported in Public Transport Maintenance area at West Park causing inconvenience.,Public Transport Maintenance
+904,Problem reported in Police area at Sector 9 causing inconvenience.,Police
+905,Problem reported in Building Permits area at Riverbank causing inconvenience.,Building Permits
+906,Problem reported in Tree Maintenance area at Main Street causing inconvenience.,Tree Maintenance
+907,Problem reported in Police area at West Park causing inconvenience.,Police
+908,Problem reported in Road Accidents area at Park Avenue causing inconvenience.,Road Accidents
+909,Problem reported in Energy Conservation area at Main Street causing inconvenience.,Energy Conservation
+910,Problem reported in Construction Noise area at North End causing inconvenience.,Construction Noise
+911,Problem reported in Bus Stops area at Downtown causing inconvenience.,Bus Stops
+912,Problem reported in Street Closures area at Old Town causing inconvenience.,Street Closures
+913,Problem reported in Permit Issuance area at Park Avenue causing inconvenience.,Permit Issuance
+914,Problem reported in Hospitals area at Downtown causing inconvenience.,Hospitals
+915,Problem reported in Pavement Markings area at Old Town causing inconvenience.,Pavement Markings
+916,Problem reported in Public Health Clinics area at North End causing inconvenience.,Public Health Clinics
+917,Problem reported in Permit Issuance area at Hill Valley causing inconvenience.,Permit Issuance
+918,Problem reported in Noise Pollution area at Sector 9 causing inconvenience.,Noise Pollution
+919,Problem reported in Animal Control area at Park Avenue causing inconvenience.,Animal Control
+920,Problem reported in Sidewalks area at North End causing inconvenience.,Sidewalks
+921,Problem reported in Water Billing area at West Park causing inconvenience.,Water Billing
+922,Problem reported in Pavement Markings area at West Park causing inconvenience.,Pavement Markings
+923,Problem reported in Rodent Control area at Park Avenue causing inconvenience.,Rodent Control
+924,Problem reported in Road Accidents area at North End causing inconvenience.,Road Accidents
+925,Problem reported in Bike Sharing Services area at Riverbank causing inconvenience.,Bike Sharing Services
+926,Problem reported in Pavement Markings area at Hill Valley causing inconvenience.,Pavement Markings
+927,Problem reported in Pavement Markings area at Sector 9 causing inconvenience.,Pavement Markings
+928,Problem reported in Sidewalks area at Park Avenue causing inconvenience.,Sidewalks
+929,Problem reported in Public Health Clinics area at MG Road causing inconvenience.,Public Health Clinics
+930,Frequent power fluctuations damaging appliances in Main Street.,Electricity
+931,Problem reported in Street Vendors area at Old Town causing inconvenience.,Street Vendors
+932,Problem reported in Water Billing area at North End causing inconvenience.,Water Billing
+933,Problem reported in Electric Billing area at Hill Valley causing inconvenience.,Electric Billing
+934,Problem reported in Homeless Shelters area at North End causing inconvenience.,Homeless Shelters
+935,Problem reported in Traffic area at North End causing inconvenience.,Traffic
+936,Problem reported in Street Furniture Maintenance area at Riverbank causing inconvenience.,Street Furniture Maintenance
+937,Problem reported in Street Drainage area at Downtown causing inconvenience.,Street Drainage
+938,Problem reported in Permit Issuance area at Main Street causing inconvenience.,Permit Issuance
+939,Problem reported in Public Pools area at West Park causing inconvenience.,Public Pools
+940,Problem reported in Bike Lanes area at Main Street causing inconvenience.,Bike Lanes
+941,Problem reported in Public WiFi area at Old Town causing inconvenience.,Public WiFi
+942,Problem reported in Bus Schedules area at Sector 9 causing inconvenience.,Bus Schedules
+943,Problem reported in Hospitals area at Old Town causing inconvenience.,Hospitals
+944,Problem reported in Public Toilets area at Hill Valley causing inconvenience.,Public Toilets
+945,Problem reported in Recycling Services area at West Park causing inconvenience.,Recycling Services
+946,Problem reported in City Planning area at MG Road causing inconvenience.,City Planning
+947,Problem reported in Public Pools Maintenance area at MG Road causing inconvenience.,Public Pools Maintenance
+948,Problem reported in Energy Conservation area at Riverbank causing inconvenience.,Energy Conservation
+949,Problem reported in Road Accidents area at Main Street causing inconvenience.,Road Accidents
+950,Problem reported in Cemeteries area at Park Avenue causing inconvenience.,Cemeteries
+951,Problem reported in Fire Safety area at North End causing inconvenience.,Fire Safety
+952,Problem reported in Public WiFi area at Sector 9 causing inconvenience.,Public WiFi
+953,Problem reported in Water Metering area at MG Road causing inconvenience.,Water Metering
+954,Problem reported in Illegal Dumping area at Downtown causing inconvenience.,Illegal Dumping
+955,Problem reported in Bus Schedules area at Old Town causing inconvenience.,Bus Schedules
+956,Problem reported in Waste Management area at North End causing inconvenience.,Waste Management
+957,Problem reported in Construction Noise area at North End causing inconvenience.,Construction Noise
+958,Problem reported in Public Landscaping area at Hill Valley causing inconvenience.,Public Landscaping
+959,Problem reported in Pavement Markings area at Main Street causing inconvenience.,Pavement Markings
+960,Problem reported in Public Health Clinics area at Downtown causing inconvenience.,Public Health Clinics
+961,Problem reported in Public Parking Enforcement area at Old Town causing inconvenience.,Public Parking Enforcement
+962,Problem reported in Water Quality area at Downtown causing inconvenience.,Water Quality
+963,Problem reported in Police area at Hill Valley causing inconvenience.,Police
+964,Problem reported in Graffiti Removal area at Downtown causing inconvenience.,Graffiti Removal
+965,Problem reported in Public Landscaping area at Main Street causing inconvenience.,Public Landscaping
+966,Problem reported in Public Toilets area at Hill Valley causing inconvenience.,Public Toilets
+967,Problem reported in Animal Shelters area at Riverbank causing inconvenience.,Animal Shelters
+968,Problem reported in Public Safety area at Downtown causing inconvenience.,Public Safety
+969,Problem reported in Public WiFi area at Hill Valley causing inconvenience.,Public WiFi
+970,Problem reported in Public Events Noise area at Downtown causing inconvenience.,Public Events Noise
+971,Problem reported in Public Pools Maintenance area at Hill Valley causing inconvenience.,Public Pools Maintenance
+972,Problem reported in Bike Sharing Services area at Main Street causing inconvenience.,Bike Sharing Services
+973,Problem reported in Air Pollution area at Riverbank causing inconvenience.,Air Pollution
+974,Problem reported in Street Repairs area at Main Street causing inconvenience.,Street Repairs
+975,Problem reported in Animal Control area at Main Street causing inconvenience.,Animal Control
+976,Problem reported in Bike Sharing Services area at West Park causing inconvenience.,Bike Sharing Services
+977,Problem reported in Swimming Pools Safety area at Park Avenue causing inconvenience.,Swimming Pools Safety
+978,Problem reported in Water Billing area at Park Avenue causing inconvenience.,Water Billing
+979,Problem reported in Emergency Services area at Old Town causing inconvenience.,Emergency Services
+980,Problem reported in Public Safety area at West Park causing inconvenience.,Public Safety
+981,Problem reported in Building Codes area at Riverbank causing inconvenience.,Building Codes
+982,Problem reported in Road Signs area at Downtown causing inconvenience.,Road Signs
+983,Problem reported in Swimming Pools Safety area at Main Street causing inconvenience.,Swimming Pools Safety
+984,Problem reported in Police area at Park Avenue causing inconvenience.,Police
+985,Problem reported in City Planning area at Main Street causing inconvenience.,City Planning
+986,Problem reported in Building Maintenance area at West Park causing inconvenience.,Building Maintenance
+987,Problem reported in Monuments area at Old Town causing inconvenience.,Monuments
+988,Problem reported in Public Events Noise area at MG Road causing inconvenience.,Public Events Noise
+989,Problem reported in Street Cleaning area at Downtown causing inconvenience.,Street Cleaning
+990,Problem reported in Street Performers area at Downtown causing inconvenience.,Street Performers
+991,Problem reported in Parking area at MG Road causing inconvenience.,Parking
+992,Problem reported in Public Toilets area at Old Town causing inconvenience.,Public Toilets
+993,Problem reported in Taxi Services area at Park Avenue causing inconvenience.,Taxi Services
+994,Problem reported in Public Markets area at Downtown causing inconvenience.,Public Markets
+995,Problem reported in Public Events Noise area at Riverbank causing inconvenience.,Public Events Noise
+996,Problem reported in Building Maintenance area at Riverbank causing inconvenience.,Building Maintenance
+997,Problem reported in Public Parks Safety area at Main Street causing inconvenience.,Public Parks Safety
+998,Problem reported in Bridge Maintenance area at North End causing inconvenience.,Bridge Maintenance
+999,Problem reported in Water Leak Detection area at Main Street causing inconvenience.,Water Leak Detection
+1000,Problem reported in Public Schools Maintenance area at Sector 9 causing inconvenience.,Public Schools Maintenance

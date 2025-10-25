@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>User Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f5f5f5;
+        }
+        .navbar {
+            background: white;
+            padding: 15px 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .nav-brand h2 { color: #667eea; }
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .card h3 { color: #333; margin-bottom: 10px; }
+        .card p { color: #666; margin-bottom: 20px; }
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+        .btn-secondary {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+        .action-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">
+            <h2>🏛️ Feedback System</h2>
+        </div>
+        <div>
+            <span th:text="'Welcome, ' + ${user.name}"></span>
+            <a href="/user/logout" class="btn" style="margin-left: 20px;">Logout</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1 style="text-align: center; margin-bottom: 30px;">👥 Citizen Dashboard</h1>
+        
+        <div class="action-cards">
+            <div class="card">
+                <h3>📝 Submit New Feedback</h3>
+                <p>Report a new problem or complaint</p>
+                <a href="/feedback/submit" class="btn">Submit Feedback</a>
+            </div>
+            
+            <div class="card">
+                <h3>📊 Track My Complaints</h3>
+                <p>View status of your submitted complaints</p>
+                <a href="/feedback/track" class="btn btn-secondary">Track Feedback</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

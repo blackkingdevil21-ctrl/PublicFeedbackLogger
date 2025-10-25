@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Track Feedback</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f5f5f5;
+        }
+        .navbar {
+            background: white;
+            padding: 15px 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .nav-brand h2 { color: #667eea; }
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        h1 { text-align: center; margin-bottom: 30px; color: #333; }
+        .feedback-card {
+            background: white;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .feedback-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        .feedback-header h3 { color: #333; font-size: 1.3rem; }
+        .status-badge {
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+        .status-pending {
+            background: #fff3cd;
+            color: #856404;
+        }
+        .status-in_progress {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+        .status-resolved {
+            background: #d4edda;
+            color: #155724;
+        }
+        .feedback-body p {
+            color: #666;
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        .feedback-body strong { color: #333; }
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+        }
+        .empty-state p { font-size: 1.2rem; margin-bottom: 20px; }
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">
+            <h2>🏛️ Feedback System</h2>
+        </div>
+        <div>
+            <a href="/user/dashboard" class="btn" style="padding: 10px 20px; margin-right: 10px;">Dashboard</a>
+            <a href="/user/logout" class="btn" style="padding: 10px 20px;">Logout</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>📊 Track My Feedback</h1>
+
+        <div th:if="${#lists.isEmpty(feedbacks)}" class="empty-state">
+            <p>📭 No feedback submitted yet.</p>
+            <a href="/feedback/submit" class="btn">Submit Your First Feedback</a>
+        </div>
+
+        <div th:if="${!#lists.isEmpty(feedbacks)}">
+            <div th:each="feedback : ${feedbacks}" class="feedback-card">
+                <div class="feedback-header">
+                    <h3 th:text="${feedback.title}">Problem Title</h3>
+                    <span th:class="'status-badge status-' + ${#strings.toLowerCase(feedback.status)}" 
+                          th:text="${feedback.status}">PENDING</span>
+                </div>
+
+                <div class="feedback-body">
+                    <p><strong>📝 Description:</strong> <span th:text="${feedback.description}"></span></p>
+                    <p><strong>🏷️ Category:</strong> <span th:text="${feedback.domain}"></span></p>
+                    <p><strong>📍 Location:</strong> <span th:text="${feedback.location ?: 'Not specified'}"></span></p>
+                    <p><strong>📅 Submitted:</strong> <span th:text="${#temporals.format(feedback.createdAt, 'dd-MMM-yyyy HH:mm')}"></span></p>
+                    
+                    <div th:if="${feedback.status.name() == 'RESOLVED'}">
+                        <p><strong>✅ Resolved on:</strong> <span th:text="${#temporals.format(feedback.resolvedAt, 'dd-MMM-yyyy HH:mm')}"></span></p>
+                    </div>
+                    
+                    <p style="margin-top: 10px; color: #999; font-size: 0.9rem;">
+                        <strong>Feedback ID:</strong> <span th:text="${feedback.id}"></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
